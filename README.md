@@ -1,3 +1,7 @@
+<div align="center">
+![Header](https://raw.githubusercontent.com/jonathanmpope/jonathanmpope/main/Github.png)
+</div>
+
 ## Hi there 👋
 
 My name is Jonathan Pope and I'm a human performance coach / co-founder at [Building the Elite](https://buildingtheelite.com/) and software developer. I'm currently based out of Denver, Colorado. You can also find me on  <a href="https://www.linkedin.com/in/jonathan-m-pope/" rel="LinkedIn Profile">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
