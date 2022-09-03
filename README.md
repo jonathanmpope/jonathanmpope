@@ -1,7 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**jonathanmpope/jonathanmpope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jonathan Pope and I'm a human performance coach and software developer. I'm currently based out of Denver, Colorado. You can also find me on ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 Here are some ideas to get you started:
 
